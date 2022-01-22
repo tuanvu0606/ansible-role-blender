@@ -1,0 +1,8 @@
+---
+
+- name: Install Blender
+  win_package:
+    path: "{{ blender_installed_file_url }}"
+    product_id: "{{ blender_product_id }}"
+    arguments: /passive /norestart
+    state: "{{ blender_state }}"

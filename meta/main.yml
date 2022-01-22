@@ -1,0 +1,14 @@
+  
+galaxy_info:
+  author: Tuan Vu
+  description: Install (or uninstall) Blender 3.0.0
+  license: BSD
+  min_ansible_version: 2.1
+  platforms:
+  - name: Windows
+    versions:
+    - all
+  galaxy_tags:
+    - windows
+
+dependencies: []
