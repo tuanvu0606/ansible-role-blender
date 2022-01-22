@@ -2,7 +2,7 @@
 
 ## how to use
 
-Put them in your requirements.yml like this
+Put them in your `requirements.yml` like this
 ```
 - src: https://github.com/tuanvu0606/ansible-role-blender.git
   name: remote-tuanvu-blender
