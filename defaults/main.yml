@@ -2,7 +2,7 @@
 # default variables for blenders
 
 blender_download_url: https://mirror.clarkson.edu/blender/release/Blender3.0/blender-3.0.0-windows-x64.msi
-blender_downloaded_destination: D:\blender-3.0.0-windows-x64.msi
+blender_downloaded_destination: "C:\\Users\\Public\\Downloads\\blender-3.0.0-windows-x64.msi"
 blender_installed_file_url: https://mirror.clarkson.edu/blender/release/Blender3.0/blender-3.0.0-windows-x64.msi
 blender_product_id: '{8E411BEA-E05E-4E73-B9D3-A89A3084D67D}'
 blender_state: present
